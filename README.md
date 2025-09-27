@@ -1,4 +1,4 @@
-👋 Hi, I’m Pratham  
+<h1>👋 Hi, I’m Pratham  </h1>
 
 <img align="right" src="boxer.png" width="270"/>
 <p> 💻 Full Stack Developer | Python | 🚀 Building modern web apps </p>
