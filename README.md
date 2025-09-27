@@ -2,10 +2,10 @@
 
 <img align="right" src="boxer.png" width="270"/>
 <p> 💻 Full Stack Developer | Python | 🚀 Building modern web apps </p>
- 🔧 Tech Stack: Python, React.js, Next.js, Node.js, Firebase.Supabase, MongoDB, PostgreSQL  
-🎨 Passionate about UI/UX, scalable systems, clean code, and photography  
-📚 Currently learning: Cloud Integration & Advanced DevOps ,Docker.
-🤝 Open to collaborating on innovative projects & open-source contributions 
+ <p>🔧 Tech Stack: Python, React.js, Next.js, Node.js, Firebase.Supabase, MongoDB, PostgreSQL  </p> 
+<p>🎨 Passionate about UI/UX, scalable systems, clean code, and photography  </p>
+<p>📚 Currently learning: Cloud Integration & Advanced DevOps ,Docker.</p>
+<p>🤝 Open to collaborating on innovative projects & open-source contributions </p>
 
 
 ### Tech Stack
