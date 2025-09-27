@@ -21,4 +21,4 @@
 
 📫 Reach me at
 - Email : chavhanpratham06@gmail.com
-- linkdein : [prathamchavhan](https://www.linkedin.com/in/pratham-chavhan-a1148a2a3/)
+- linkedin : [prathamchavhan](https://www.linkedin.com/in/pratham-chavhan-a1148a2a3/)
