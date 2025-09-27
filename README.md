@@ -1,7 +1,7 @@
 👋 Hi, I’m Pratham  
 
 <img align="right" src="boxer.png" width="270"/>
- 💻 Full Stack Developer | Python | 🚀 Building modern web apps  
+<p> 💻 Full Stack Developer | Python | 🚀 Building modern web apps </p>
  🔧 Tech Stack: Python, React.js, Next.js, Node.js, Firebase.Supabase, MongoDB, PostgreSQL  
 🎨 Passionate about UI/UX, scalable systems, clean code, and photography  
 📚 Currently learning: Cloud Integration & Advanced DevOps ,Docker.
