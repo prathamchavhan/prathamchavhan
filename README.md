@@ -33,7 +33,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
-
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
 
 #### 🤖 GenAI
 ![GenAI](https://img.shields.io/badge/-GenAI-8A2BE2?logo=openai&logoColor=white)
