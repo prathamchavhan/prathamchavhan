@@ -4,7 +4,7 @@
 
 <p>💻 Full Stack Developer | Python | 🚀 Building modern web apps</p>
 <p>🔧 Tech Stack: Python, React.js, Next.js, Node.js, Firebase, Supabase, MongoDB, PostgreSQL</p>
-<p>🎨 Passionate about Python Development, scalable systems, clean code, and photography</p>
+<p>🎨 Passionate about AI-driven automation, scalable systems, clean code, and photography</p>
 <p>📚 Currently learning: Cloud Integration & Advanced DevOps, Docker</p>
 <p>🤝 Open to collaborating on innovative projects & open-source contributions</p>
 
