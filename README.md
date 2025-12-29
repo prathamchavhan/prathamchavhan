@@ -39,6 +39,11 @@
 ![GenAI](https://img.shields.io/badge/-GenAI-8A2BE2?logo=openai&logoColor=white)
 
 ---
+## 🐍 Contribution Snake (Live)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DishantShahare358/DishantShahare358/output/github-contribution-grid-snake.svg" />
+</p>
 
 📫 <b>Reach me at</b>  
 - Email: <a href="mailto:chavhanpratham06@gmail.com">chavhanpratham06@gmail.com</a>  
