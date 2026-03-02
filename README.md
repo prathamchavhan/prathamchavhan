@@ -1,63 +1,78 @@
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight:600;">
-  👋 Hi, I'm Pratham
-</h1>
+<h1 align="center">👋 Hi, I'm Pratham</h1>
 
-<p align="center" style="font-family: 'Segoe UI', sans-serif; font-size:16px;">
+<p align="center">
   💻 <b>Full Stack Developer</b> • Python • React • Next.js <br>
   🚀 Building modern, scalable & AI-powered web applications
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathamChavhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
-<h2 align="center" style="font-family: 'Segoe UI', sans-serif; letter-spacing:1px;">
-🧠 Tech Stack
-</h2>
+## 👨‍💻 About Me
 
-<br>
+- 🚀 Passionate about building modern web applications with clean architecture  
+- 🤖 Interested in AI-driven automation & scalable backend systems  
+- ☁️ Currently learning Cloud Integration, Advanced DevOps & Docker  
+- 📸 Also passionate about creativity, UI design & photography  
+- 🤝 Open to collaborating on innovative projects & open-source  
 
-<h3 style="font-family: 'Segoe UI', sans-serif;">🎨 Frontend</h3>
+---
 
+# 🧠 Tech Stack
+
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="55"/>
 </p>
 
-<br>
+---
 
-<h3 style="font-family: 'Segoe UI', sans-serif;">🛠 Backend & Database</h3>
-
+### 🛠 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 </p>
 
-<br>
+---
 
-<h3 style="font-family: 'Segoe UI', sans-serif;">☁️ DevOps & Cloud</h3>
-
+### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="55"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="55"/>
 </p>
 
-<br>
+---
 
-<h3 style="font-family: 'Segoe UI', sans-serif;">🤖 GenAI</h3>
-
+### 🤖 GenAI
 <p>
   <img src="https://skillicons.dev/icons?i=openai" height="55"/>
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamChavhan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamChavhan&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -65,9 +80,9 @@
   <img src="https://raw.githubusercontent.com/DishantShahare358/DishantShahare358/output/github-contribution-grid-snake.svg" />
 </p>
 
-------
+---
 
-<h2 align="center">📫 Connect With Me</h2>
+# 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:chavhanpratham06@gmail.com">
@@ -79,10 +94,8 @@
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <b><i>⚡ Code. Build. Scale. Repeat. ⚡</i></b>
 </p>
-
----
