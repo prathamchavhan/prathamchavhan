@@ -43,14 +43,7 @@
   <img src="https://skillicons.dev/icons?i=azure" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="55"/>
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DishantShahare358/DishantShahare358/output/github-contribution-grid-snake.svg" />
-</p>
-
-------
+--
 
 # 📫 Connect With Me
 
