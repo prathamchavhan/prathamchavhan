@@ -4,7 +4,9 @@
   💻 <b>Full Stack Developer</b> • Python • React • Next.js <br>
   🚀 Building modern, scalable & AI-powered  applications
 </p>
+---
 
+<img align="right" src="boxer.png" width="260"/>
 ## 👨‍💻 About Me
 
 - 🚀 Passionate about building modern applications with clean architecture  
