@@ -2,12 +2,12 @@
 
 <p align="center">
   💻 <b>Full Stack Developer</b> • Python • React • Next.js <br>
-  🚀 Building modern, scalable & AI-powered web applications
+  🚀 Building modern, scalable & AI-powered  applications
 </p>
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about building modern web applications with clean architecture  
+- 🚀 Passionate about building modern applications with clean architecture  
 - 🤖 Interested in AI-driven automation & scalable backend systems  
 - ☁️ Currently learning Cloud Integration, Advanced DevOps & Docker  
 - 📸 Also passionate about creativity, UI design & photography  
