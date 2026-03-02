@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="55"/>
 </p>
-### 🛠 Backend & Database
+🛠 Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="55"/> &nbsp;&nbsp;
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 </p>
-### ☁️ DevOps & Cloud
+☁️ DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="55"/> &nbsp;&nbsp;
