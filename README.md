@@ -37,10 +37,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" />
 &nbsp;&nbsp;
 
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="45" />
+&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
 &nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 &nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
@@ -49,10 +55,28 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
 &nbsp;&nbsp;
 
+<!-- GitHub Actions -->
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" />
+&nbsp;&nbsp;
+
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" />
+&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/vercel/ffffff" height="45" />
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" />
+&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="45" />
+&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
 
 </p>
 
+---
 ---
 # 📫 Connect With Me
 
