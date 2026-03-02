@@ -18,49 +18,47 @@
 
 ---
 # 🧠 Tech Stack
-
----
+# 🧠 Tech Stack
 
 ## 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1e3c72?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-ff512f?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-2193b0?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
 </p>
 
 ---
 
-## 🛠 Backend & Databases
+## 🛠 Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Python-141e30?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Node.js-0f9b0f?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-11998e?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ff8008?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/MongoDB-134e5e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1d4350?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="55"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 </p>
 
 ---
 
 ## ☁️ DevOps & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Git-b31217?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-232526?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-373B44?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-1e3c72?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Render-0f2027?style=for-the-badge&logo=render&logoColor=46E3B7" />
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="55"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="55"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="55"/>
 </p>
 
 ---
 
 ## 🤖 GenAI
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-41295a?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=openai" height="55"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
