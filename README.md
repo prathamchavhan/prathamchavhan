@@ -17,28 +17,48 @@
 - 🤝 Open to collaborating on innovative projects & open-source  
 
 ---
-
 # 🧠 Tech Stack
 
-### 🎨 Frontend
+---
+
+## 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1e3c72?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-ff512f?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2193b0?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🛠 Backend & Database
+---
+
+## 🛠 Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,supabase,firebase,mongodb,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-141e30?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Node.js-0f9b0f?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-11998e?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ff8008?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/MongoDB-134e5e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1d4350?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
-### ☁️ DevOps & Cloud
+---
+
+## ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,azure,docker&theme=dark" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48"/>
+  <img src="https://img.shields.io/badge/Git-b31217?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-232526?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-373B44?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-1e3c72?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Render-0f2027?style=for-the-badge&logo=render&logoColor=46E3B7" />
 </p>
 
-### 🤖 GenAI
+---
+
+## 🤖 GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
+  <img src="https://img.shields.io/badge/OpenAI-41295a?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
