@@ -5,12 +5,6 @@
   🚀 Building modern, scalable & AI-powered web applications
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathamChavhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🚀 Passionate about building modern web applications with clean architecture  
@@ -31,9 +25,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="55"/>
 </p>
-
----
-
 ### 🛠 Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="55"/> &nbsp;&nbsp;
@@ -43,9 +34,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="55"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 </p>
-
----
-
 ### ☁️ DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="55"/> &nbsp;&nbsp;
@@ -56,31 +44,13 @@
   <img src="https://skillicons.dev/icons?i=docker" height="55"/>
 </p>
 
----
-
-### 🤖 GenAI
-<p>
-  <img src="https://skillicons.dev/icons?i=openai" height="55"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamChavhan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamChavhan&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DishantShahare358/DishantShahare358/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+------
 
 # 📫 Connect With Me
 
@@ -92,6 +62,13 @@
   <a href="https://www.linkedin.com/in/pratham-chavhan-a1148a2a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  📧 <b>Email:</b> chavhanpratham06@gmail.com <br>
+  💼 <b>LinkedIn:</b> linkedin.com/in/pratham-chavhan-a1148a2a3
 </p>
 
 ---
