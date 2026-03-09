@@ -9,7 +9,7 @@
 ---
 
 <img align="right" src="boxer.png" width="260"/>
-# <h2>👨‍💻 About Me </h2>
+<h2>👨‍💻 About Me </h2>
 
 - 🚀 Passionate about building modern applications with clean architecture  
 - 🤖 Interested in AI-driven automation & scalable backend systems  
