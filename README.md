@@ -80,7 +80,7 @@
 </p>
 
 ---
-#<h3 style="font-size:29px;"> 📫 Connect With Me</h3>
+<h3 style="font-size:29px;"> 📫 Connect With Me</h3>
 
 <p align="center">
   <a href="mailto:chavhanpratham06@gmail.com">
