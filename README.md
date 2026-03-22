@@ -25,9 +25,9 @@
 <h3 style="font-size:29px;">📫 Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:chavhanpratham06@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pratham-chavhan-a1148a2a3/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:chavhanpratham06@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="45" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pratham-chavhan-a1148a2a3/"><img src="https://img.icons8.com/color/48/linkedin.png" height="45" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="[https://www.instagram.com/](https://www.instagram.com/prathamchavhan_?igsh=MWQ5NzVsdzk2MjUycg==)"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="45" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
