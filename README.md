@@ -28,7 +28,7 @@
   <a href="mailto:chavhanpratham06@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pratham-chavhan-a1148a2a3/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/"><img src="https://cdn.simpleicons.org/x/ffffff" height="40" /></a>
+
 </p>
 
 ---
