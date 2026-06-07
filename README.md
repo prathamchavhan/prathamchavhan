@@ -14,7 +14,6 @@
 - 📸 Also passionate about creativity, UI design & photography  
 - 🤝 Open to collaborating on innovative projects & open-source  
 
-<h3 style="font-size:29px;"> Languages & Tools</h3>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
