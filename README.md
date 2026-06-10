@@ -18,9 +18,7 @@
 
 <p align="left">
 
-<a href="https://react.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-</a>
+
 
 <a href="https://reactnative.dev/docs/getting-started" target="_blank">
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45"/>
