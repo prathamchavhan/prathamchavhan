@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pratham</h1>
 <p align="center">
   💻 <b>Full Stack Developer</b> • Python • React • Next.js <br>
-  🚀 Building modern, scalable & AI-powered  applications
+  🚀 Design & Build modern, scalable & AI-powered  applications
 </p>
 
 <img align="right" src="boxer.png" width="260"/>
